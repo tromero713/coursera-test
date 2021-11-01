@@ -1,0 +1,18 @@
+/***NAVIGATION***/
+nav button { 
+    background-position: center;
+    background: pink;
+    margin: 0px;
+    padding: 0%;
+    border: 8px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.tasha {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 40%;
+    color: black;
+}
